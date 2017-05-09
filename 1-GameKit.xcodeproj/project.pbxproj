@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					ED5879BA1DC7080C000298FC = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = AWXB2A4S7V;
 					};
 				};
 			};
@@ -265,9 +266,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AWXB2A4S7V;
 				INFOPLIST_FILE = "1-GameKit/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.qianrun.--GameKit";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qianrun.--GameKitd";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -276,9 +278,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AWXB2A4S7V;
 				INFOPLIST_FILE = "1-GameKit/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.qianrun.--GameKit";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.qianrun.--GameKitd";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -302,6 +305,7 @@
 				ED5879D41DC7080C000298FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
